@@ -25,3 +25,7 @@ Focus Areas:
 
 Assets
 Pixel Assets sourced from : https://pixelfrog-assets.itch.io/pixel-adventure-1
+
+## Preview
+
+![Gameplay Screenshot](WisdomAmechOnyeokeh_GameCPP/assets/platform1main.JPG)
